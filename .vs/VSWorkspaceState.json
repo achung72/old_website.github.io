@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\_bibliography",
+    "\\_pages"
   ],
+  "SelectedNode": "\\_pages\\about.md",
   "PreviewInSolutionExplorer": false
 }
